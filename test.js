@@ -1,6 +1,2 @@
-console.log("Hello, World!");
-console.log("Hello, World!");
-console.log("Hello, World!");
-console.log("Hello, World!");
-console.log("Hello, World!");
-console.log("Hello, World!");
+let age = "fher" ;
+console.log(typeof age)
